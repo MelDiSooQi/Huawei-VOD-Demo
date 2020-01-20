@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"890852200000000072",
+		"product_id":"9105385871708432354",
+		"client_id":"278798402869789760",
+		"client_secret":"4FD6A88530E6C98FA572D103F73FC27A4E199EAE3166A5DC49D7BA331F8F2876",
+		"app_id":"101664773",
+		"package_name":"com.voddemo.huawei",
+		"api_key":"CV5M7VXyUlZamkiY9auQIS31A0U5hIlbXuxmkSpS4qwPpA9GsoJfpIzkx8+mBzftGz1RJRTaewSCoBVzlSOxMdnCQg/n"
+	},
+	"configuration_version":"1.0"
+}

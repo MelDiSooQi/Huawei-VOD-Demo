@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VOD Demo</string>
+
+    <string name="logo">logo</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="subscribe">Subscribe</string>
+</resources>

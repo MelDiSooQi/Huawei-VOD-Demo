@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/colorRed</color>
+    <color name="colorPrimaryDark">#AD0202</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorRed">#fe0000</color>
+    <color name="screen_background_dark_transparent">#80000000</color>
+    <color name="screen_background_light_transparent">#80FFFFFF</color>
+</resources>
